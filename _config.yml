@@ -46,3 +46,4 @@ exclude:
   - vendor/ruby/
   - .git
   - .gitignore
+  - README.md
