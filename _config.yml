@@ -28,8 +28,8 @@ repository: test
 # Build settings
 markdown: kramdown
 #theme: minima
-#theme: jekyll-theme-midnight
-theme: jekyll-theme-merlot
+theme: jekyll-theme-midnight
+#theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
