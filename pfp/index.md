@@ -15,4 +15,4 @@ layout: pfp_default
 ## 10.  [Link to another page](another-page)
 
 * * *
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZW18lqu8GE0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ZW18lqu8GE0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
