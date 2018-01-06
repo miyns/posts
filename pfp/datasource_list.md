@@ -43,7 +43,12 @@ Next, Let's hide unnecessary DataSouce.
 [<img src="../assets/images/3setting1list3.png" width="30%">](../assets/images/3setting1list3.png)
 
 tap the `'v'` button to switch hide and show.
-Now I will show you hide 5 items (`AUD/JPY`,`CAD/JPY`,`EUR/JPY`,`GBP/JPY`,`NZD/JPY`)
+Now I will show you hide 5 items 
+*   AUD/JPY
+*   CAD/JPY
+*   EUR/JPY
+*   GBP/JPY
+*   NZD/JPY
 
 [<img src="../assets/images/3setting1list5.png" width="30%">](../assets/images/3setting1list5.png)
 
