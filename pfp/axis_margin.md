@@ -54,6 +54,7 @@ Tap the `SAVE` button.
 ## 5. Show chart
 `X-Axis margin list`is changed by your setting.
 Try choose these value.
+
 [<img src="../assets/images/3boxsize6.png" width="30%">](../assets/images/3boxsize6.png)
 [<img src="../assets/images/3boxsize7.png" width="30%">](../assets/images/3boxsize7.png)
 
